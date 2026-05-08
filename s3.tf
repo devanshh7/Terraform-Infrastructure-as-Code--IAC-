@@ -1,3 +1,6 @@
+# TO RUN:
+# terraform init > terraform plan > terraform validate > terraform apply > terraform destroy
+
 # aws provider block
 
 provider "aws" {
