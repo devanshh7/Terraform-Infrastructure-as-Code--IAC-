@@ -13,7 +13,7 @@ provider "aws" {
 # resource block
 
 resource "aws_s3_bucket" "my-bucket" {
-  bucket = "my-tf-test-bucket"
+  bucket = "devansh-terra-bucket"
 
 }
 
