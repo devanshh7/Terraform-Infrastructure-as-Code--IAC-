@@ -6,6 +6,6 @@
 #        }
 
 resource local_file my_file {
-  filename= "file-using-terraform"
+  filename= "file-using-terraform.txt"
   contents= "This is the file made by me using terraform code"
 }
